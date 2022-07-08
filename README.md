@@ -1,8 +1,8 @@
 # Alteryx Auto Documentation
 
-Alteryx auto documentaiton converts your Alteryx workflows underlying XML into usable documentation.
+Alteryx Auto Documentaiton converts your Alteryx workflows underlying XML into usable documentation.
 
-It will parse your provided alteryx workflow and extract the xml, search for key infomration e.g. data inputs, and output and then build an formatted output documnet that can be futher updated and loading into you documentation store.
+It will parse your provided alteryx workflow and extract the xml, search for key information e.g. data inputs, and outputs and then build a formatted output document that can be further updated and loaded into you documentation store.
 
 ## How to Use
 >[!TODO]
