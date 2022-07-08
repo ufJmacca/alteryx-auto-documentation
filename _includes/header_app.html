@@ -3,5 +3,13 @@
         <div class="header-content-inner">
             <h1>Hello World</h1>
         </div>
+        <body>
+            Current time printed by python
+            <py-script>
+                from datetime import datetime
+                now = datetime.now()
+                now.strftime("%m/%d/%Y, %H:%M:%S")
+            </py-script>
+        </body>
     </div>
 </header>
