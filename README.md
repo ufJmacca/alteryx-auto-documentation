@@ -10,6 +10,13 @@ It will parse your provided alteryx workflow and extract the xml, search for key
 ## Format of Documentaiton
 >[!TODO]
 
+### [MkDocs](https://www.mkdocs.org/)
+
+MkDocs build documentation our of Markdown files. It uses the [python markdown](https://python-markdown.github.io/) to translate the markdown into html.
+
+>[!IMPORTANT]
+> Reserved charaters an be escaped using a backlash (\\) character. Will need to ensure this is handled for reserver markdown characters
+
 ### Base Webpage Theme
 
 A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
