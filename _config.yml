@@ -3,7 +3,7 @@ title: Alteryx Auto Documentation
 email: temp@temp.com
 description: Alteryx Auto Documentation >  # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https:localhost" # the base hostname & protocol for your site
+# url: "https:localhost" # the base hostname & protocol for your site
 
 twitter_username:
 github_username: ufJmacca
