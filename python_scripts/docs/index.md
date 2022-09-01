@@ -2,14 +2,14 @@
 
 | Metadata | Description |
 | --- | --- |
-| Project Name | ~projectName~ | 
-| Workflow Type | ~workflowType~ |
+| Project Name | ~project_name~ | 
+| Workflow Type | ~workflow_type~ |
 | Client / Account / Team | ~client~ |
 | Purpose | ~purpose~ |
 | Audience | ~audience~ |
-| Workflow Owner | ~workflowOwner~ |
+| Workflow Owner | ~workflow_owner~ |
 | Average Runtime | ~runtime~ |
-| Run Schedule | ~runSchedule~ |
+| Run Schedule | ~run_schedule~ |
 
 ## Synopsis
 
@@ -17,15 +17,15 @@
 
 ## Run Process
 
-~runProcess~
+~run_process~
 
 ## Errors and Warnings
 
-~errorsAndWarnings~
+~errors_and_warnings~
 
 ## Other Notes
 
-~otherNotes~
+~other_notes~
 
 # Inputs and Outputs
 
@@ -40,4 +40,4 @@
 # Tool Summary
 *The number and type of tools can give an overall indication about the completxity of the workflow*
 
-~toolSummary~
+~tool_summary~
